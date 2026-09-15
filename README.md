@@ -66,18 +66,6 @@ Always building something new — check out my pinned repositories below!
 </tr>
 </table>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Minhkola&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minhkola&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Minhkola&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
